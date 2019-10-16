@@ -54,13 +54,13 @@ The purpose of technical analysis is to help the investor make a more financiall
 
 ## Contributions
 
- We're are open to `enhancements` & `bug-fixes` :smile: 
+ We're open to `enhancements` & `bug-fixes` :smile: 
  
 -----------------------------------------------
 
 ## Note 
 
-This project was done under `under 24-hours` from scratch with no preparation
+This project was done `under 24-hours` from scratch with no preparation
 
 -----------------------------------------------
 
